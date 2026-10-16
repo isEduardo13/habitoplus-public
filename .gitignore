@@ -43,11 +43,7 @@ build/
 src/main/resources/application.properties
 src/main/resources/firebase-private-key.json
 .env
-.env.*
 
-
-# Keep example templates committed
-src/main/resources/application.example.properties
 
 # Local History for Visual Studio Code
 .history/
